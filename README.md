@@ -1,7 +1,7 @@
 # Linux-On-Scratch
 Linux for the blocky code language Scratch!
 
-### About The Emulator
+## About The Emulator
 
 This is a 32-bit RISC-5 processor emulator, the emulator runs the linux 6.0 kernel
 
@@ -22,7 +22,7 @@ The emulator has 1 MMIO device located at 0x10000000, this device is a UART and 
 The emulator has 64 megabytes of RAM
 
 
-### Interacting With The Emulator
+## Interacting With The Emulator
 
 #### Sending Input
 
