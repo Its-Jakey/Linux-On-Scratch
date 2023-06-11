@@ -36,4 +36,4 @@ Please do not call my project your own, or upload it to the Scratch website.
 
 
 
-Feel free to ask questions!
+I also created a Github to discuss LOS (Linux On Scratch) and other programming related stuff, feel free to ask any questions you might have there! https://discord.gg/hhewPEawA6
