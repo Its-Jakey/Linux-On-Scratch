@@ -31,8 +31,7 @@ To enter the enter/newline key press the "left arrow" key.
 
 #### Modifiying the code
 
-To save the project after working on it, if the project has been run since the last save run the "Prepare For Save" block in the "RISCV" sprite to clear the emulator's ram and lower the project file size
-Please do not call my project your own, or upload it to the Scratch website.
+Feel free to modify the code however you like and try out different programs and add new MMIO, but please do not call my project your own.
 
 
 
