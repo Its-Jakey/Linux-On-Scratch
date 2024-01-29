@@ -35,4 +35,4 @@ Feel free to modify the code however you like and try out different programs and
 
 
 
-I also created a Github to discuss LOS (Linux On Scratch) and other programming related stuff, feel free to ask any questions you might have there! https://discord.gg/hhewPEawA6
+I also created a Discord to discuss LOS (Linux On Scratch) and other programming related stuff, feel free to ask any questions you might have there! https://discord.gg/hhewPEawA6
